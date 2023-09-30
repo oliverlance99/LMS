@@ -1,0 +1,24 @@
+$green: #2A8F38;
+$dark-green: #274C43;
+$brown: #8B6400;
+$black: #1C1C1C;
+$white: #e4e4e4;
+$blue: #087F8C;
+
+@mixin circle($size){
+    height: $size;
+    width: $size;
+    border-radius: 100%;
+}
+
+@font-face {
+    font-family: 'Inria-Sans-Regular';
+    src: url('/InriaSans-Regular.ttf');
+}
+@font-face {
+    font-family: 'Chalk-Regular';
+    src: url('/Chalktastic-r78L.ttf');
+}
+
+$inria-regular: 'Inria-Sans-Regular';
+$chalk-regular: 'Chalk-Regular';
