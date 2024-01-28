@@ -1,6 +1,6 @@
 <template>
   <footer>
-    69 St. Scholastica's Village, East Drive, Marikina Heights, Marikina City,
+    39 St. Scholastica's Village, East Drive, Marikina Heights, Marikina City,
     National Capital Region, Philippines, 1810 • 0956-967-5635 •
     oliverlancelim11@gmail.com
   </footer>
